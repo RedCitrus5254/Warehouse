@@ -1,0 +1,11 @@
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\bin\Release\net5.0-windows\Warehouse.Model.deps.json
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\bin\Release\net5.0-windows\Warehouse.Model.dll
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\bin\Release\net5.0-windows\ref\Warehouse.Model.dll
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\bin\Release\net5.0-windows\Warehouse.Model.pdb
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\Warehouse.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\Warehouse.Model.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\Warehouse.Model.AssemblyInfo.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\Warehouse.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\Warehouse.Model.dll
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\ref\Warehouse.Model.dll
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse.Model\obj\Release\net5.0-windows\Warehouse.Model.pdb

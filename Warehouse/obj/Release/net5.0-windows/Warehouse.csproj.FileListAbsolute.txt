@@ -1,0 +1,9 @@
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\Warehouse.csprojAssemblyReference.cache
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\Views\GoodCard.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\Views\GoodCommands.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\Views\NodeManager.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\Warehouse_MarkupCompile.cache
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Release\net5.0-windows\Warehouse_MarkupCompile.lref

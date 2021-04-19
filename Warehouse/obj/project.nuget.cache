@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8zOS0zkIPUOTSc/KgLnvBvkib0jKo/mqS3e4brdkoMUNKvQJ+Cnko9rlH/w7pkUADqXUdVUjp49XNvJA6eLEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmitrii\\source\\repos\\Warehouse\\Warehouse\\Warehouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitrii\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Dmitrii\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Dmitrii\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}

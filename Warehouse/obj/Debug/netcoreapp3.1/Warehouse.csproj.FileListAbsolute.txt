@@ -1,0 +1,9 @@
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csprojAssemblyReference.cache
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Views\GoodCard.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Views\GoodCommands.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Views\NodeManager.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse_MarkupCompile.cache
+C:\Users\Dmitrii\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse_MarkupCompile.lref

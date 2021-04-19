@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Warehouse.Views.NodeManager"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Warehouse.Views" 
+             xmlns:local2="clr-namespace:Warehouse.ViewModels" d:DataContext="{d:DesignInstance Type=local2:MainViewVM}"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="100">
+    <Grid MouseLeave="Grid_MouseLeave">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Click="Button_Click" Command="{Binding CreateNode}">Создать узел</Button>
+        <Button Grid.Row="1" Click="Button_Click" Visibility="{Binding IsCurrentNodeNullVisibility}" Command="{Binding DeleteNode}">Удалить узел</Button>
+    </Grid>
+</UserControl>
